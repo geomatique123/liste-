@@ -5,8 +5,5 @@ for i in liste3:
             if x%i==0:
                 liste2.append(i)
 print(liste2)
-
-
-
-   
-        
+"""amine
+amh"""
